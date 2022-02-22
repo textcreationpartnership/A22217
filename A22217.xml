@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation for suppressing of  light golde.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22217</idno>
+            <idno type="STC">STC 8626</idno>
+            <idno type="STC">ESTC S3478</idno>
+            <idno type="EEBO-CITATION">33150209</idno>
+            <idno type="OCLC">ocm 33150209</idno>
+            <idno type="VID">28537</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28537)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:116)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation for suppressing of  light golde.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers  to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1620]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms, without I R at top of sheet 1.</note>
+                  <note>"Giuen at Newmarket the seuenth day of February, in the seuenteenth yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Gold --  Standards of fineness --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:28537:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King. A Proclamation for ſuppreſsing of light Golde.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas by Our Proclamation dated the one and thirtieth day</hi> of Iuly laſt, Wee did expreſſe Our princely care and earneſt deſire to reduce Our Gold Coine to one equall price and value, and to forbeare the ſtamping of any more of thoſe vnequall Coynes, which were found not to be ſo vſefull for Our Subiects; with this prouiſion ne<g ref="char:EOLhyphen"/>uertheleſſe, That ſuch as then were already coyned ſhould continue of the ſame value they then were, allowing certaine remedies and a<g ref="char:EOLhyphen"/>batements vpon euery piece greater or leſſer reſpectiuely, which Re<g ref="char:EOLhyphen"/>medies, if any piece of the ſaid Gold Coynes then already coyned, ſhould be found to exceed, Wee gaue free libertie to all and euery Our louing Subiects, to refuſe the ſame in paiment at their will and pleaſure, thereby to take away (as much as poſſible might be) all opportunitie and en<g ref="char:EOLhyphen"/>couragement from offenders, to Clip, Waſh, and diminiſh the ſaid Coynes, which then were, and now are generally much fallen by ſuch vnlawfull and wicked practiſes from their firſt true value and goodneſſe: All which Our Royall care and prouiſion notwithſtanding, tending ſo much to the weale of Our people, We finde the ſame to be ſo greatly neglected, as in ſtead of making vſe of that liberty which was then giuen them of refuſing ſuch light Gold moneys aforementioned, as were without the Remedies allowed by Our ſaid Proclamation, they doe now for the moſt part accept in payments indifferently and promiſcuouſly all ſuch Coynes whatſoeuer, tendred vnto them, without weighing or examining the true value and goodneſſe thereof, as were fit, and as they ought to doe: Which ſtrange negligence we in Our princely wiſedome and prouidence con<g ref="char:EOLhyphen"/>ſidering, and obſeruing that neither the regard of their own manifeſt loſſe and detriment, which they ſuſtaine by ſuch impaired and diminiſhed Coynes, nor Our earneſt deſire to haue them more carefull, (not obſcurely intimated alſo in Our ſaid Proclamation) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an any thing preuaile to haue ſo foule an abuſe redreſſed, as with care and diligence it might eaſily be. We therfore not yet giuing ouer the care and welfare of Our louing Subiects, euen in their particular intereſts, but withall, entring into a more ſerious conſideration how far this great abuſe may concerne the ſtate of Our Realme in generall, by the continuall waſte and conſumption of all the Currant Money within Our Realme, if ſome ſtricter courſe be not taken to preuent the miſchiefe, are now conſtrained in regard of Our Subiects long negligence of their own commodity, in lieu of that which Our for<g ref="char:EOLhyphen"/>mer Proclamation left in a maner to liberty and choice, to lay vpon Our Subiects a Charge and Commandement, to accept and refuſe payment of the ſaid light Coynes in certeine caſes, and vp<g ref="char:EOLhyphen"/>on certeine conditions, but with that moderation &amp; reſpect, as ſhall by a very ſmall preſent dam<g ref="char:EOLhyphen"/>mage <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all miſchiefes that can hereafter fall vpon <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:28537:2"/>by ſtraitly charge and forbid vpon paine of contempt and incurring of Our high diſpleaſure, That no manner of perſon or perſons within this Our Realme of England, from and after Midſomer next comming in any County of Our Realme doe preſume to take or receiue, or de<g ref="char:EOLhyphen"/>liuer in payment any piece of Our Gold Coyne currant within this Realme, and formerly by Vs aduanced at the rates aforeſayd, being clipped, waſhed or by any other means vnlawfully dimini<g ref="char:EOLhyphen"/>ſhed, or lacking of the iuſt weight thereof, otherwiſe then according to the Rates hereafter ſeue<g ref="char:EOLhyphen"/>rally expreſſed, and with the allowance of the remedies ſet downe in Our former Proclamation, That is to ſay,
+<list>
+                  <item>In euery piece of golde currant for 33. ſhillings, The remedie ſhall not exceede 4. graines and a halfe,</item>
+                  <item>In euery piece of golde currant for 22. ſhillings, The remedie ſhall not exceede 3 graines.</item>
+                  <item>In euery piece of golde currant for 16. ſhillings 6. pence, The remedie ſhall not exceede 2. graines and a halfe.</item>
+                  <item>In euery piece of golde currant for 11. ſhillings, The remedie ſhall not exceede 2. gaines.</item>
+                  <item>In euery piece of golde currant for 5. ſhillings 6. pence, The remedie ſhall not exceede 1. gaine.</item>
+                  <item>In euery piece of golde currant for 2 ſhillings 9. pence, The remedie ſhall not exceede Halfe a graine.</item>
+               </list>
+            </p>
+            <p>All which remedies ſhall be allowed in euery piece accordingly, and no deduction or abate<g ref="char:EOLhyphen"/>ment to bee made for the ſame, but to paſſe as if it were of full weight and iuſt valew. But if any ſuch piece of Coyne, lacking of his true weight aboue the ſaid remedies before expreſſed, ſhall from &amp; after Midſomer next comming be offered in paiment by any perſon or perſons with<g ref="char:EOLhyphen"/>in this Our Realme, Our Will and pleaſure then is, that for ſo many graines more or leſſe, as the piece ſhall be lighter then the remedie, ſo as aforeſaid allowed, euery perſon or perſons, that ſo offereth the ſame in paiment, ſhall alſo at the ſame time pay and allow, after the rate of two pence the graine to him that receiueth it, for euery graine wanting aboue the remedies reſpectiue<g ref="char:EOLhyphen"/>ly; And euery perſon or perſons, to whom the ſame is offered to be payde with thoſe allowan<g ref="char:EOLhyphen"/>ces, ſhall accept the ſame in paiment as if the ſame were full and iuſt weight, any thing contained in Our former Proclamation to the contrary notwithſtanding. Prouided alwayes, that if any ſuch piece of Gold, ſo offered in paiment after the time aforeſaid, ſhall want aboue the number of ſo many more graines then are allowed for the remedies reſpectiuely, as if the piece of twentie and two ſhillings ſhall want more then three graines aboue the remedie allowed, or the piece of eleuen ſhillings more then two graines aboue the remedie, &amp; ſo of all the reſt reſpectiuely; Then Our Royall will and pleaſure is, that in all paiments betweene partie and partie, the ſame ſhall not onely be refuſed without all redemption, but that euery perſon and perſons to whom ſuch tender of paiments ſhal be made, ſhal brand the ſame, by ſtriking a hole, at his and their pleaſure, in euery of the ſaid pieces ſo offered in paiment, as likewiſe of any other piece that ſhall be found ſowdered or vnlawfully imbaſed: rendring thoſe pieces ſo ſtricken thorow, then preſently after<g ref="char:EOLhyphen"/>wards to the Owners thereof againe according as was ordered by a Proclamation made by Our Deare Siſter the late Queene <hi>Elizabeth</hi> in the nine &amp; twentieth yere of her Reigne vpon the like occaſion. Prouided alſo, and We doe hereby declare Our intention and expreſſe pleaſure to be, that if any of Our louing Subiects ſhall hereafter bring any Golde to be coyned at Our Mint, he and they ſhall haue a iuſt &amp; full returne thereof, without diminution, by weight, or by number, at the election of him, that ſhall receiue the ſame according to Our former Proclamation, dated the one &amp; thirtieth day of Iuly laſt, deducting for the coynage; Aſſuring our Selfe, that ſince We haue here<g ref="char:EOLhyphen"/>by giuen ſo large and ſufficient a time for Our good Subiects to diſabuſe themſelues by ridding thei hands of thoſe light pieces of Golde which deceiue and endammage the whole Kingdome, they will betwixt the Date of this Proclamation and Midſomer ſo prouide, by timely ſending in of that Coyne into Our Mint, as may beſt ſtand with their indemnitie, leſt that the glut of ma<g ref="char:EOLunhyphen"/>king
+<pb facs="tcp:28537:3"/>all that light Coyne to bee Bullion after the ſayd time, may not onely proue hurtfull, but in a manner vnpoſſible vnto them, ſince Wee are reſolued (for the tender care We haue of Our Sub<g ref="char:EOLhyphen"/>iects good) that this Our Proclamation ſhalbe put to a reall and full execution.</p>
+            <p>And whereas by Our ſaid former Proclamation, we were pleaſed to notifie vnto all Our lo<g ref="char:EOLhyphen"/>uing Subiects how careful We were (after the example likewiſe of Our ſaid deare Siſter, the late Queene in the ſaid nine and twentieth yeare of her Raigne) to giue order to the Maſter of Our Mint, for preparing a ſufficient number of iuſt waights and ballances, with true and vpright graines and halfe graines, for the remedies and abatements aforeſaid, to haue them in a readineſſe before the firſt of September laſt paſt, to be deliuered at reaſonable prices, to be rated by Our Commiſſioners for Our Treaſury, or Treaſurer of England, for the time being, to all ſuch Our Subiects as ſhould require the ſame, with expreſſe commandement, that the chiefe Officers in all Our Cities, Boroughes, and Townes Corporate of this Our Realme of England, and Principalitie of Wales, ſhould before the laſt day of September laſt paſt, prouide to haue one paire of the ſaid waights ſufficient, at the hands of the ſaid Maſter of our Mint, within euery ſuch City, Borough, and Towne corporate, well and ſafely to be kept, for tryall of the waight of the ſaide Coynes, as occaſion ſhalbe: Which neuertheleſſe, We vnderſtand is neglected, and though the ſaid Maſter of Our Mint, hath performed that which belonged to his dutie and office, in making pre<g ref="char:EOLhyphen"/>paration according as We inioyned him, and that the ſaid waights and ballances are reaſona<g ref="char:EOLhyphen"/>bly rated by our Commiſſioners for the Treaſury, Yet hath not any or very few, repaired vnto him for ſuch ballances and waights; By meanes whereof, all Our endeuour and Princely care for the good and weale of our Subiects in this particular, is likely to bee fruſtrated and of little effect. We doe therefore hereby once againe, lay our expreſſe charge and commandement vpon all the ſaid chiefe Officers of Our Cities, Boroughes, and Townes corporate of this Our Realme of England, and Principalitie of Wales, that before the foure and twentieth day of Iune next, they doe without faile prouide themſelues of ſuch waights and ballances with vp<g ref="char:EOLhyphen"/>right graines and halfe graines, which We haue cauſed to bee marked and ſtricken with an <hi>I.</hi> Crowned, at the hands of the Maſter of Our Mint, to be ſafely kept within euery ſuch Citie, Borough, and Towne corporate, according as in Our former Proclamation it is ordered: And We ſtraightly forbid all Our Subiects and others whatſoeuer, to haue, or vſe any other waights then as aforeſaid for the ſaid Coynes of Gold, remedies, or abatements, or any of them, as they will anſwere the contrary at their vttermoſt perill.</p>
+            <closer>
+               <dateline>Giuen at Newmarket <date>the ſeuenth day of February, in the ſeuenteenth yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, and Iohn Bill, Printers to the Kings moſt Ex<g ref="char:EOLhyphen"/>cellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
